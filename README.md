@@ -1,4 +1,4 @@
-# SFT
+# Llama-3.1-8B-QLoRA-on_SPIDER
 Minimal SFT playground for Spider text-to-SQL with Llama 3.1-8B + QLoRA.
 
 ## Evaluate with SPIDER benchmark
